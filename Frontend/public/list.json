@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name" : "Story Book",
+    "title" : "Stories for Everyone",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 2,
+    "name" : "Comedy Book",
+    "title" : "Comedy makes fresh ",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 3,
+    "name" : "Sport Book",
+    "title" : "Sport Essential",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 4,
+    "name" : "Class Book",
+    "title" : "class personality",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+  
+  {
+    "id": 5,
+    "name" : "Music Book",
+    "title" : "Learn Music here",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 6,
+    "name" : "Spiritual Book",
+    "title" : "Spiritual world",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 7,
+    "name" : "Horror Book",
+    "title" : "Caution: Dont Read it!",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 8,
+    "name" : "Love Book",
+    "title" : "Romance and love",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 9,
+    "name" : "Market Book",
+    "title" : "Learn and then Earn",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 10,
+    "name" : "Marathi Book",
+    "title" : "Marathi is Proud",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 11,
+    "name" : "Recipe Book",
+    "title" : "Every Day need Recipe",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  },
+
+  {
+    "id": 12,
+    "name" : "Fun Book",
+    "title" : "Sunday is Funday",
+    "price" : 0,
+    "category" : "Free",
+    "image" : "https://img.freepik.com/free-vector/flat-world-book-day-illustration_23-2148874625.jpg?t=st=1724156135~exp=1724159735~hmac=e66d90e671c5371d633c6c52befe3daa5be220e034582b6a305645c80d23698a&w=740"
+  }
+
+]

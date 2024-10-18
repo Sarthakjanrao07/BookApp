@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Fredoka:wght@300..700&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Marko+One&family=Poppins&family=Prompt:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: 'Poppins' , sans-serif;
+}

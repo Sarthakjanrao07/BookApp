@@ -1,0 +1,29 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Full Stack Project",
+  "main": "indx.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon indx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarthakjanrao07/Book-Store-Website.git"
+  },
+  "author": "Sarthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarthakjanrao07/Book-Store-Website/issues"
+  },
+  "homepage": "https://github.com/Sarthakjanrao07/Book-Store-Website#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "nodemon": "^3.1.4"
+  }
+}
