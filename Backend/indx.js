@@ -9,10 +9,11 @@ import userRoute from "./route/user.route.js";
 const app = express();
 //app.use(cors());
 app.use(cors({
-  origin: 'https://book1-navy.vercel.app',  // Your frontend URL
-  methods: ['GET', 'POST'],  // Allowed methods
-  allowedHeaders: ['Content-Type'],  // Allowed headers
+    origin: ['https://book1-navy.vercel.app', 'http://localhost:3000'],  // Example for multiple allowed origins
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    allowedHeaders: ['Content-Type'],
 }));
+
 
 app.use(express.json());
 
