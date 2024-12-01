@@ -11,9 +11,7 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+              Craving your favorite meal? Satisfy your hunger with just a few clicks! Our food delivery service brings a world of flavors right to your doorstep, fresh, fast, and delicious. Whether it’s a quick bite or a gourmet feast, we partner with top restaurants to ensure every dish is prepared with care and delivered with love. Enjoy exclusive discounts, real-time tracking, and the convenience of having your cravings fulfilled without stepping out. Sit back, relax, and let us serve you happiness on a plate!"
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
