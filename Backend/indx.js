@@ -7,7 +7,13 @@ import bookRoute from "./route/book.route.js";
 import userRoute from "./route/user.route.js";
 
 const app = express();
-app.use(cors());
+//app.use(cors());
+app.use(cors({
+  origin: 'https://book1-navy.vercel.app',  // Your frontend URL
+  methods: ['GET', 'POST'],  // Allowed methods
+  allowedHeaders: ['Content-Type'],  // Allowed headers
+}));
+
 app.use(express.json());
 
 dotenv.config();
